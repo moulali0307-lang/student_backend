@@ -1,5 +1,5 @@
 from urllib.parse import quote_plus
-
+# this is variable
 password = quote_plus("Moulali@7")
 
 class Config:
